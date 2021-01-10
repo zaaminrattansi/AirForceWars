@@ -1,5 +1,4 @@
 # Zaamin Rattansi
-# ICS201 CPT
 # AirForce Wars
 
 # Import required library's
